@@ -1,4 +1,8 @@
+## Geek Incorporated DevOps
 ### Hi there 👋
+
+### Request Private Repository Access:
+Send all requests for private repository access to info@geekinc.co with Subject: "github repository access <repository name>"
 
 <!--
 **geekincorp-devops/geekincorp-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
