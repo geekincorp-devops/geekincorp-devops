@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ### Request Private Repository Access:
-Send all requests for private repository access to info@geekinc.co with Subject: geekinc-devops private repository access request"
+Send all requests for private repository access to info@geekinc.co with Subject: geekinc-devops private repository access request
 
 Include the name of the repository and a brief reason for the request in the body of the email.
 
